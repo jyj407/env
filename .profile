@@ -22,6 +22,7 @@ alias clang++='$BUILD/clang++'
 alias format='$BUILD/clang-format'
 alias lit='$BUILD/llvm-lit'
 alias check='$SRC/llvm/utils/update_llc_test_checks.py'
+alias fh='git diff -U0 --no-color HEAD^ | clang-format-diff.py -i p1'
 
 # other tools aliases
 alias em='/usr/bin/emacs'
