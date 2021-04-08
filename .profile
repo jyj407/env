@@ -27,7 +27,6 @@ alias ..3="cd ../../.."
 alias ..4="cd ../../../.."
 alias ..5="cd ../../../../.."
 alias datecp='/$HOME/bin/datecp'
-alias rm='/$HOME/bin/trash.sh'
 
 
 #clang/llvm tool aliases
