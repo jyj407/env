@@ -5,3 +5,7 @@
 	email = tony.jiang@mythic-ai.com
 [color]
 	ui = true
+[rerere]
+	enabled = true
+[push]
+	default = simple
