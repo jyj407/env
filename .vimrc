@@ -237,3 +237,4 @@ set number relativenumber " Turn line numbering on at startup
 " Toggle line numbers from none at all
 " to relative numbering with current line number
 noremap <F3> :set invnumber invrelativenumber<CR> " toggle number setting with F3
+noremap <F10> :set paste <CR> " toggle number setting with F10
