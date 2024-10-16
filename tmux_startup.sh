@@ -2,7 +2,7 @@
 # var for session name (to avoid repeated occurences)
 sn=tonyWork
 LLVM="/path/to/your/llvm/"
-HOME="/home/yanjjian/"
+HOME="/home/tony/"
 # Start the session and window 0 in /etc
 #   This will also be the default cwd for new windows created
 #   via a binding unless overridden with default-path.
